@@ -31,7 +31,7 @@ With providing the necessary hardware now we need to connect them to each other.
 
 **3.**  Although nothing happened but actually your interpreter is running and waiting you commands:
 
-![How to Use](https://drive.google.com/file/d/1TF3lCO8xBN48AEpa0svMDVHHtOjENpiy/view?usp=share_link)
+![How to Use](http://drive.google.com/file/d/1TF3lCO8xBN48AEpa0svMDVHHtOjENpiy/view?usp=share_link)
 
 **4.** Now type command based on what you need to do.
 
