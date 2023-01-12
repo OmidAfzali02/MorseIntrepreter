@@ -22,6 +22,7 @@ The model I created uses the following items:
 ## Diagram
 
 With providing the necessary hardware now we need to connect them to each other. follow the Diagram.png file to make the proper connection.
+
 ![Morse Interpreter circuit diagram](https://github.com/OmidAfzali02/MorseIntrepreter/blob/main/Diagram.png)
 
 # How to use
