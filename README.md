@@ -30,17 +30,22 @@ With providing the necessary hardware now we need to connect them to each other.
 **2.** Click Run but nothing gonna happen.
 
 **3.**  Although nothing happened but actually your interpreter is running and waiting you commands:
-![How to Use](https://mega.nz/file/8J4CRIba#6W05sTwDKcx_33tqgnkILX8NHRjJp0vaUK8kmJfMhbw)
+
+![How to Use](https://drive.google.com/file/d/1TF3lCO8xBN48AEpa0svMDVHHtOjENpiy/view?usp=share_link)
 
 **4.** Now type command based on what you need to do.
 
 ## commands
 
- 1. To Encrypt a message to Morse code use the following command: ``playmessage("hello world")``
+ 1. To Encrypt a message to Morse code use the following command:
+
+  ``playmessage("hello world")``
 
 Now checkout your LEDs and Buzzer you can see that they blink and make the morse code sound.
  2. To Decrypt a message use the following command:
+
  ``recordmessage()``
+ 
  After pressing enter you can use your push chassis to record the message; If you press the push chassis for a short time, the green LED will blink and it represents a short noise or `.` in morse code; And if you press the push chassis a bit longer, blue LED will blink and it represents a long noise or `-` in morse code. 
 
 # How to reach me
