@@ -1,3 +1,4 @@
+
 # Morse Interpreter
 
 This project is using Raspberry pi pico and Micro python.
@@ -48,6 +49,22 @@ Now checkout your LEDs and Buzzer you can see that they blink and make the morse
  ``recordmessage()``
  
  After pressing enter you can use your push chassis to record the message; If you press the push chassis for a short time, the green LED will blink and it represents a short noise or `.` in morse code; And if you press the push chassis a bit longer, blue LED will blink and it represents a long noise or `-` in morse code. 
+
+## Change attributes
+This interpreter has two attributes which are LEDs and Sound. We can customize them to whether we want such attributes or not.
+
+ - LEDs: If your want to turn the LEDs off so that they no longer blink when your either encrypting or decrypting a message, use the following command:
+ 
+
+    light = False
+  
+
+ - Sound: If your want to turn the buzzer off so that it no longer make sound when you're either encrypting or decrypting a message, use the following command:
+ 
+
+    sound = False
+ 
+And you can change it back to True anytime to have the lights and the sound.
 
 # How to reach me
 .📫 [dev.omid02@gmail.com](mailto:dev.omid02@gmail.com)
